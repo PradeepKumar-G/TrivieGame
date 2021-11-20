@@ -1,7 +1,7 @@
 # TriviaGame
 Created with CodeSandbox
 
-Trivia Game is implemted using  React js  and Styled-components, it is implemented to complete the following oparations:
+Trivia Game is implemted using  React js  and Styled-components, it is implemented to complete the following operations:
 
 Get questions and answers from this API - https://jservice.io/api/random
 
