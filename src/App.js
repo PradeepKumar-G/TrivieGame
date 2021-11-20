@@ -42,7 +42,7 @@ export default class TriviaGame extends Component {
   onChangedText = (event) => {
     this.setState({ enteredText: event.target.value });
   };
-
+//on Click on Submit Button we check the whether the enter answer matches to actual answer 
   onSubmitAnswer = (e) => {
     e.preventDefault();
     const { answerText, enteredText } = this.state;
